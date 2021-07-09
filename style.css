@@ -1,6 +1,7 @@
 body {
     margin: 0 auto;
     font-family: Arial;
+    overflow-x: hidden;
 }
 
 .zone {
